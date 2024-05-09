@@ -2,9 +2,9 @@
 A simple implementation of ERC-3722 Poster written in Cairo for Starknet.
 
 ### Deployments
-Starknet Mainnet: [0x01c4ee551ce7a50e5ea01a6f4f4cff23c52c166e8d0534694b5cf778628595ca](https://starkscan.co/contract/0x01c4ee551ce7a50e5ea01a6f4f4cff23c52c166e8d0534694b5cf778628595ca)
+Starknet Mainnet: [0x0654e9232d5f402829755029901f69c32b423ded0f8c081e416e3b24f5a7a46e](https://starkscan.co/contract/0x0654e9232d5f402829755029901f69c32b423ded0f8c081e416e3b24f5a7a46e)
 
-Starknet Sepolia: [0x0759ebda3c1205c5fc530b107cb769dd529eeb8f05bba1ac7a905eaaf8cf1a51](https://sepolia.starkscan.co/contract/0x0759ebda3c1205c5fc530b107cb769dd529eeb8f05bba1ac7a905eaaf8cf1a51)
+Starknet Sepolia: [0x03aa7630a4f9c5108bf3cd1910c7d45404cba865fc0fc0756bf9eedc073a98a9](https://sepolia.starkscan.co/contract/0x03aa7630a4f9c5108bf3cd1910c7d45404cba865fc0fc0756bf9eedc073a98a9)
 
 ### Learn more
 ERC-3722: https://github.com/auryn-macmillan/EIP-Zodiac/blob/master/EIPS/eip-3722.md  
