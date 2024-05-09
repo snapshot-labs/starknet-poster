@@ -1,9 +1,9 @@
 # StarkNet Poster
 A simple implementation of ERC-3722 Poster written in Cairo for StarkNet.
 
-### Old Deployments [cairo0]
-StarkNet Mainnet: [0x03466e8e46d566ca97472d037668364c37cc1bc5cc21f013327d8c500d979231](https://voyager.online/contract/0x03466e8e46d566ca97472d037668364c37cc1bc5cc21f013327d8c500d979231)  
-StarkNet Goerli: [0x04d10712e72b971262f5df09506bbdbdd7f729724030fa909e8c8e7ac2fd0012](https://goerli.voyager.online/contract/0x04d10712e72b971262f5df09506bbdbdd7f729724030fa909e8c8e7ac2fd0012)
+### Deployments
+StarkNet Mainnet: [0x01c4ee551ce7a50e5ea01a6f4f4cff23c52c166e8d0534694b5cf778628595ca](https://sepolia.starkscan.co/contract/0x01c4ee551ce7a50e5ea01a6f4f4cff23c52c166e8d0534694b5cf778628595ca)
+StarkNet Goerli: [0x0759ebda3c1205c5fc530b107cb769dd529eeb8f05bba1ac7a905eaaf8cf1a51](https://sepolia.starkscan.co/contract/0x0759ebda3c1205c5fc530b107cb769dd529eeb8f05bba1ac7a905eaaf8cf1a51)
 
 ### Learn more
 ERC-3722: https://github.com/auryn-macmillan/EIP-Zodiac/blob/master/EIPS/eip-3722.md  
